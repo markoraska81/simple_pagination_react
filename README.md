@@ -1,1 +1,1 @@
-# simple_pagination_react
+# react_app
